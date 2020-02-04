@@ -27,5 +27,3 @@ Different Types of Tests.
 3. Full Flow (e.g. validating a DOM after a click) = End-to-End (E2E) Testing
 
 ---
-
-testing
